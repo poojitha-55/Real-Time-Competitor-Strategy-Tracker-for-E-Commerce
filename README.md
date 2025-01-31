@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-https://github.com/user-attachments/assets/8313eba0-14af-4caf-8753-19b44a9a5e4a
+https://github.com/user-attachments/assets/bf37ee29-68d7-4eab-9d8c-a38e955a0ee6
 
 This project focuses on creating a real-time competitive intelligence tool for e-commerce businesses. It provides actionable insights by monitoring competitor pricing, discount strategies, and customer sentiment. The solution leverages:
 
